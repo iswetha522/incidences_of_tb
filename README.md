@@ -1,5 +1,5 @@
 # Incidence of Tuberculosis
-![alt text](/Users/iswetha/ironhack/incidences_of_tb/tb image.jpg)
+![TB Image](https://github.com/iswetha522/incidences_of_tb/blob/main/tb%20image.jpg)
 
 
 ## Description
@@ -9,7 +9,7 @@ This project mainly focus on  incidence of TB in South East Asia WHO Region, Whi
 In this project I have used WHO Global Tuberculosis Report for last 2 years and downloaded the dataset, Cleaned them and started exploratory analysis to the data.
 
 ## Presentation 
-TB Project Presentation PDF[TB Project PDF](/Users/iswetha/ironhack/incidences_of_tb/TB_Project_pdf).
+TB Project Presentation PDF [TB Project PDF](https://github.com/iswetha522/incidences_of_tb/blob/main/TB_Project_pdf.pdf).
 
 ## Language
 
